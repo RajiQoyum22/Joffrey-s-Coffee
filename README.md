@@ -156,6 +156,7 @@ Includes:
 
 ## Joffreys_Coffee_Dashboard
 
+![image alt](https://github.com/RajiQoyum22/Joffrey-s-Coffee/blob/910b81414c105ff401a4d9aac6f92a292b3508f1/Raji's_Coffee_Shop.PNG)
 
 
 ## 🙌 Project Author
